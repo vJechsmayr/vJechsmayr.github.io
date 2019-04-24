@@ -15,21 +15,17 @@ Kurz vor Studienende stieg ich in ein vollig neues Feld ein **Active Sourcing mi
 
 ## Interessen & Freizeit
 
-**Softwareentwicklung**  von A bis Z
-
+**Softwareentwicklung**  von A bis Z. 
 Ich arbeite in meiner Freizeit gerne an kleinen Projekten. Dabei probiere ich mich in diversen Bereichen aus. Smart Home Projekte mit Arduino und Raspberry, simple Webseiten mit HTML/CSS oder CMS-Systemen oder WebApplikationen mit NodeJS und Angular.
 
 **Coding Contest, Hacktoberfest und Dev-Challenges**
-
 Nach langer Zeit auf Kriegsfuß mit der Softwareentwicklung (während meiner HTL-Jahre) habe ich nun nach und nach meine Liebe dazu entdeckt und tobe mich seit kurzem auch am Catalysts Coding Contest, beim Hacktoberfest (Github, Digital Ocean) und bei diversen Coding Challenges wie zB #100daysofcode aus. 
 
 **Computerspiele**
-
 Um das Klische eines Computer-Nerds zu vervollständigen: Ja ich spiele auch sehr gerne Computerspiele. In der Welt der Strategiespiele sowie der Indie-Games fühle ich mich sehr wohl.
 Wobei ich auch immer für eine Runde "Offline"-Games zu haben bin. Ob "Machi Koro", "Skipbo" oder "Wizard" ich setz mich gern mit an den Tisch.
 
 **Offline**
-
 In der Offline Kategorie habe ich durchaus auch einige Interessen. Dazu gehört auf jeden Fall **lesen**.
 Ich lese sehr gerne und habe eine ziemlich lange Leseliste an Büchern die ich noch lesen möchte. Leider kommen immer andere Bücher dazwischen bzw. dazu sodass meine Bücherliste eine "Unendliche Geschichte" geworden ist :)
 
@@ -40,7 +36,6 @@ Ist das Wetter schön (oder auch nicht so schön) bin ich fast immer in meiner *
 Als Alternativplan währen der HTL hatte ich eine Karriere als **Koch** in der Hinterhand. Da ich seit jungen Jahren gerne und viel koche habe ich das kochen immer als Entspannung und Ablenkung im Gegensatz zur stressigen HTL/Uni-Zeit gesehen. Dadurch konnte ich meine Fähigkeiten diesbezüglich ausbauen. Leider muss ich das gekochte auch immer essen, was sich doch ein wenig auf meinen Hüften abzeichnet ;p
 
 **Reisen**
-
 Ein Lottogewinn würde bei mir in erster Linie in einer Weltreise investiert werden. Ich reise für mein Leben gerne. Das kennenlernen neuer Kulturen und Leute, das fremde/neue Essen, neue Blickweisen faszinieren mich. :)
 
 **Wo war ich schon?**
