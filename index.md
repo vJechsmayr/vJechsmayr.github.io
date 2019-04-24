@@ -10,7 +10,7 @@ Während meiner Arbeit im Wien ereilte mich der ruf des Studiums und ich bin wie
 Um mich finanziell auch durch das Studium zu kämpfen arbeitete ich daher nebenbei als **IT Allrounderin und Fahrschullehrerin**.
 Kurz vor Studienende stieg ich in ein vollig neues Feld ein **Active Sourcing mit Schwerpunkt IT/Softwareentwickler** - hier wurde auf Kundenwunsch ein Softwareentwickler mit kommunikativer Fähigkeit gesucht. Durch intere Entwicklungsmöglichkeiten zählen auch diverse andere Tätigkeiten zu meinen Aufgaben:
 - **Abhalten der IT Grundlagen und Fortgeschrittenen Schulungen für Junior und Senior Recruiter**
-- **Entwicklung und Wartung des internen Kandidatenmanagement-Tools im Sourcing
+- **Entwicklung und Wartung des internen Kandidatenmanagement-Tools im Sourcing**
 
 ## Interessen & Freizeit
 
