@@ -42,6 +42,7 @@ Als Alternativplan währen der HTL hatte ich eine Karriere als **Koch** in der H
 **Reisen**
 
 Ein Lottogewinn würde bei mir in erster Linie in einer Weltreise investiert werden. Ich reise für mein Leben gerne. Das kennenlernen neuer Kulturen und Leute, das fremde/neue Essen, neue Blickweisen faszinieren mich. :)
+
 **Wo war ich schon?**
 - Österreich - noch nicht überall, aber ich bin dabei die Sehenswürdigkeiten abzuklappern, damit ich zumindest so viel von Österreich kenne wie die Touristen die her kommen
 - Italien
