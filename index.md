@@ -64,8 +64,12 @@ Ein Lottogewinn würde bei mir in erster Linie in einer Weltreise investiert wer
 ## Kontakt
 
 [Linkedin](https://www.linkedin.com/in/viktoria-jechsmayr/)
+
 [XING](https://www.xing.com/profile/Viktoria_Jechsmayr )
+
 [StackOverflow](https://stackoverflow.com/users/story/8055029 )
+
 [Github](https://github.com/vJechsmayr)
+
 [epunkt](https://www.epunkt.com/u/team/jechsmayr-viktoria/)
 
