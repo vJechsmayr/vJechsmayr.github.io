@@ -11,12 +11,14 @@ Während meiner Arbeit im Wien ereilte mich der ruf des Studiums und ich bin wie
 Um mich finanziell auch durch das Studium zu kämpfen arbeitete ich daher nebenbei als **IT Allrounderin und Fahrschullehrerin**.
 Kurz vor Studienende stieg ich in ein vollig neues Feld ein **Active Sourcing mit Schwerpunkt IT/Softwareentwickler** - hier wurde auf Kundenwunsch ein Softwareentwickler mit kommunikativer Fähigkeit gesucht. Durch intere Entwicklungsmöglichkeiten zählen auch diverse andere Tätigkeiten zu meinen Aufgaben:
 - **Abhalten der IT Grundlagen und Fortgeschrittenen Schulungen für Junior und Senior Recruiter**
-- **Entwicklung und Wartung des internen Kandidatenmanagement-Tools im Sourcing**
+- **Entwicklung und Wartung des internen Kandidatenmanagement-Tools im Sourcing (HTML, CSS, JavaScript/TypeScript, NodeJS, Angular)**
+
+Seit Mai 2019 bin ich nun im Bereich **IT-Projektmanagement und DWH** tätig. Und kann hier meiner IT-Seele freien Lauf lassen. 
 
 ## Interessen & Freizeit
 
 **Softwareentwicklung**  von A bis Z. 
-Ich arbeite in meiner Freizeit gerne an kleinen Projekten. Dabei probiere ich mich in diversen Bereichen aus. Smart Home Projekte mit Arduino und Raspberry, simple Webseiten mit HTML/CSS oder CMS-Systemen oder WebApplikationen mit NodeJS und Angular.
+Ich arbeite in meiner Freizeit gerne an kleinen Projekten. Dabei probiere ich mich in diversen Bereichen aus. Smart Home Projekte mit Arduino und Raspberry (**C und C++**), simple Webseiten mit **HTML/CSS und JavaScript** oder CMS-Systemen (**PHP**) oder **WebApplikationen mit NodeJS und Angular**.
 
 **Coding Contest, Hacktoberfest und Dev-Challenges**
 Nach langer Zeit auf Kriegsfuß mit der Softwareentwicklung (während meiner HTL-Jahre) habe ich nun nach und nach meine Liebe dazu entdeckt und tobe mich seit kurzem auch am Catalysts Coding Contest, beim Hacktoberfest (Github, Digital Ocean) und bei diversen Coding Challenges wie zB #100daysofcode aus. 
