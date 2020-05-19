@@ -68,5 +68,5 @@ Ein Lottogewinn würde bei mir in erster Linie in einer Weltreise investiert wer
 
 [Github](https://github.com/vJechsmayr)
 
-[epunkt](https://www.epunkt.com/u/team/jechsmayr-viktoria/)
+[epunkt](https://www.epunkt.com/team/jechsmayr-viktoria/)
 
