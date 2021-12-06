@@ -537,7 +537,7 @@
 				"min": 1
 				},
 			"id": "rice",
-			"index": 0,
+			"index": 273,
 			"name": "Rice",
 			"scythe": true,
 			"seasons": [
@@ -547,7 +547,7 @@
 			"stages": [
 				1,
 				1,
-				1,
+				2,
 				3
 			]
 		},
@@ -663,6 +663,42 @@
 				6,
 				6,
 				6
+			]
+		},
+		{
+			"buy": 0,
+			"harvest": {},
+			"id": "taro",
+			"index": 831,
+			"name": "Taro Root",
+			"scythe": true,
+			"seasons": [
+				"summer"
+			],
+			"sell": 100,
+			"stages": [
+				1,
+				1,
+				2,
+				3
+			]
+		},
+		{
+			"buy": 0,
+			"harvest": {},
+			"id": "tea",
+			"index": 251,
+			"name": "Tea",
+			"scythe": true,
+			"seasons": [
+				"spring",
+				"summer",
+				"fall"
+			],
+			"sell": 50,
+			"stages": [
+				10,
+				10
 			]
 		},
 		{
@@ -824,6 +860,11 @@
 			"name": "Quality Fertilizer"
 		},
 		{
+			"buy": 0,
+			"id": "deluxe_fertilizer",
+			"name": "Deluxe Fertilizer"
+		},
+		{
 			"buy": 100,
 			"growth_rate": 0.1,
 			"id": "speed_gro",
@@ -834,6 +875,12 @@
 			"growth_rate": 0.25,
 			"id": "delux_speed_gro",
 			"name": "Delux Speed-Gro"
+		},
+		{
+			"buy": 0,
+			"growth_rate": 0.33,
+			"id": "hyper_speed_gro",
+			"name": "Hyper Speed-Gro"
 		}
 	],
 	"events": {
@@ -920,6 +967,10 @@
 				"name": "Willy"
 			},
 			{
+				"day": 26,
+				"name": "Leo"
+			},
+			{
 				"day": 28,
 				"name": "Dance of the Moonlight Jellies",
 				"festival": true
@@ -994,6 +1045,21 @@
 			{
 				"day": 14,
 				"name": "Harvey"
+			},
+			{
+				"day": 15,
+				"name": "Night Market",
+				"festival": true
+			},
+			{
+				"day": 16,
+				"name": "Night Market",
+				"festival": true
+			},
+			{
+				"day": 17,
+				"name": "Night Market",
+				"festival": true
 			},
 			{
 				"day": 17,
