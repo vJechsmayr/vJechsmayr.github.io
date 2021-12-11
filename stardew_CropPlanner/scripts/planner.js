@@ -560,7 +560,9 @@ function planner_controller($scope){
 	function toggle_mode(){
 		if (self.cmode == "farm"){
 			set_mode("greenhouse");
-		} else {
+		} if (self.cmode == "greenhouse") {
+			set_mode("artisan");
+		} else{
 			set_mode("farm");
 		}
 	}
