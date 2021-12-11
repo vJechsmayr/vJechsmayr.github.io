@@ -845,14 +845,14 @@
 		{
 			"buy": 0,
 			"harvest": {},
-			"id": "cask",
-			"index": 999,
+			"id": "caskwine",
+			"index": 0,
 			"name": "Cask - Wine",
 			"wiki_page": "",
 			"seasons": [
 				"spring", "summer", "fall","winter"
 			],
-			"sell": 500,
+			"sell": 1000,
 			"stages": [
 				14,
 				14,

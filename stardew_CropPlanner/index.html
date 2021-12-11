@@ -409,32 +409,6 @@
 								<div class="btn btn-default" ng-click="self.add_plan(self.cdate, true)" data-toggle="tooltip" data-placement="bottom" title="Auto-replant on day of harvest"><i class="fa fa-calendar"></i> Autoplant</div>
 							</div>
 						</div>
-
-						<div class="row">
-							<div class="col-md-4 col-xs-12">
-								<b>Artisan Goods</b>
-								<select class="form-control" ng-model="self.newplan.crop_id"
-									ng-options="crop.id as crop.name for crop in self.crops_list | filter: self.planner_valid_crops">
-								</select>
-							</div>
-							<div class="col-md-2 col-xs-4">
-								Amount
-							</div>
-							<div class="col-md-3 col-xs-4">
-								Processing Machine (cask / keg) 
-							</div>
-							<div class="col-md-3 col-xs-4">
-								<b></b><br>
-								<div class="btn btn-default" 
-									ng-click="self.add_plan(self.cdate)"><i class="fa fa-plus"></i> 
-									Process</div>
-								<div class="btn btn-default" 
-									ng-click="self.add_plan(self.cdate, true)" 
-									data-toggle="tooltip" data-placement="bottom" 
-									title="Auto-refill on day of harvest"><i class="fa fa-calendar"></i> 
-									Autoprocess</div>
-							</div>
-						</div>
 						<br>
 					</div>
 					
