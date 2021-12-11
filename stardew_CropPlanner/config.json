@@ -841,6 +841,23 @@
 				3,
 				4
 			]
+		},
+		{
+			"buy": 0,
+			"harvest": {},
+			"id": "cask",
+			"index": 498,
+			"name": "Cask - Wine",
+			"wiki_page": "",
+			"seasons": [
+				"spring", "summer", "fall","winter"
+			],
+			"sell": 500,
+			"stages": [
+				14,
+				14,
+				28
+			]
 		}
 	],
 	"fertilizer": [
