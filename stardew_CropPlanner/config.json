@@ -858,6 +858,21 @@
 				14,
 				28
 			]
+		},
+		{
+			"buy": 0,
+			"harvest": {},
+			"id": "keg",
+			"index": 0,
+			"name": "Keg - Wine",
+			"wiki_page": "",
+			"seasons": [
+				"spring", "summer", "fall","winter"
+			],
+			"sell": 100,
+			"stages": [
+				7
+			]
 		}
 	],
 	"fertilizer": [
